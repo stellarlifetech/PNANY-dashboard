@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use or refer to this dashboard, please cite it as below."
+type: software
+title: "PNANY Dashboard: Driven by Purpose, United in Mission"
+abstract: >-
+  An interactive, single-page dashboard about the leadership network of the
+  Philippine Nurses Association of New York (PNANY), 2026–2028. It includes a
+  multilayer network visualization, a new-member simulator (Monte Carlo and
+  Bayesian), an orchestral sonification, UN Sustainable Development Goal mapping,
+  and nine statistical and simulation models (path model, system dynamics,
+  agent-based, regression, Bayesian, Monte Carlo, resilience, crisis surge, and
+  event carbon footprint), built from public, professional information.
+authors:
+  - family-names: Hernandez
+    given-names: Joannes Paulus Tolentino
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD, then remove the #
+version: 1.0.0
+date-released: 2026-11-14
+license: CC-BY-NC-ND-4.0
+url: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME/"
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-NAME"
+keywords:
+  - nursing
+  - Filipino American nurses
+  - professional associations
+  - social network analysis
+  - multilayer networks
+  - sonification
+  - data visualization
+  - Bayesian statistics
+  - simulation
+# doi: 10.5281/zenodo.XXXXXXX   # add after Zenodo gives you a DOI, then remove the #
