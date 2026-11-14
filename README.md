@@ -41,18 +41,6 @@ The models use accepted methods from published research, but their inputs are pu
 | `CITATION.cff` | Citation details that GitHub shows in its "Cite this repository" button. |
 | `.zenodo.json` | Details Zenodo uses when it archives a release and assigns a DOI. |
 | `LICENSE.md` | License terms (CC BY-NC-ND 4.0). |
-| `ZENODO_DOI_INSTRUCTIONS.md` | Step-by-step guide to publishing on GitHub Pages and getting a DOI. |
-
-## Publish on GitHub Pages (quick version)
-
-1. Create a **public** repository on GitHub (for example, `pnany-dashboard`).
-2. Upload all the files in this folder, including `.zenodo.json`. It starts with a dot, so check that it uploaded.
-3. Go to **Settings → Pages**. Under **Build and deployment**, set **Source** to **Deploy from a branch**, choose **main** and **/ (root)**, and click **Save**.
-4. After a minute or two, the dashboard will be live at `https://stellarlifetech.github.io/PNANY-dashboard/`.
-
-The dashboard needs an internet connection to load its fonts. Everything else is inside `index.html`.
-
-To get a DOI, follow **[ZENODO_DOI_INSTRUCTIONS.md](ZENODO_DOI_INSTRUCTIONS.md)**.
 
 ## How to cite
 
