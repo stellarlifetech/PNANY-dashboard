@@ -14,11 +14,11 @@ authors:
   - family-names: Hernandez
     given-names: Joannes Paulus Tolentino
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD, then remove the #
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-14
 license: CC-BY-NC-ND-4.0
-url: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME/"
-repository-code: "https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-NAME"
+url: "https://stellarlifetech.github.io/PNANY-dashboard/"
+repository-code: "https://github.com/stellarlifetech/PNANY-dashboard"
 keywords:
   - nursing
   - Filipino American nurses
@@ -29,4 +29,4 @@ keywords:
   - data visualization
   - Bayesian statistics
   - simulation
-# doi: 10.5281/zenodo.XXXXXXX   # add after Zenodo gives you a DOI, then remove the #
+doi: 10.5281/zenodo.24217696
