@@ -20,7 +20,8 @@ An interactive, single-page dashboard about the leadership network of the **Phil
 | **Statistical models** | Nine interactive models: path model, system dynamics, agent-based, regression (with bootstrap), Bayesian (with a live sampler), Monte Carlo, resilience stress test, crisis surge, and event carbon footprint. Each has insights and an "About these results" note. |
 | **Key numbers** | Network measures, a ranked table of leaders, and a list of public sources. |
 | **Listen** | An orchestral sonification of the network, a harmony meter, and an interactive "open chair" invitation. |
-| **References** | 46 published sources, numbered and linked from the text. |
+| **Mood lab** | A biocomputing-inspired simulation: the 17 leaders act as a "brain on a chip" that learns to drive a jeepney through New York traffic and park it, and shows a mood, a sense of control and teamwork, and changes the lighting. |
+| **References** | 74 published sources, numbered and linked from the text. |
 
 ## Data and privacy
 
